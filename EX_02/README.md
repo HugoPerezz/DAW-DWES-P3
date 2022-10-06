@@ -1,0 +1,1 @@
+Primero de todo creamos la clase Empleado y dentro las variables nombre y sueldo, tal como pedía el enunciado. A continuación creamos el constructor de empleado. Finalmente creamos un nuevo empleado y le asignamos un nombre y un sueldo. Finalmente creamos una funcion que dependiendo del sueldo asignado, nos indique si tiene que pagar impuestos o no.
